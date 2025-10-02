@@ -494,7 +494,7 @@ Implementasi ini menggunakan protokol MQTT untuk komunikasi antara *publisher* (
 
 Skrip `app_original_topic.py` berhasil dijalankan untuk mengirim 5 pesan berurutan ke *broker* MQTT. Setiap pesan dikirim dalam format JSON dan berisi informasi seperti nomor pesan, isi, *timestamp*, nama pengirim, universitas, dan NIM.
 
-![Screenshot Terminal Publisher](gambar/screenshot-terminal1.png)
+![Screenshot Terminal Publisher](gambar/screnshoot-terminal1.jpg)
 
 ### Sesi *Subscriber* (Penerimaan Pesan)
 
